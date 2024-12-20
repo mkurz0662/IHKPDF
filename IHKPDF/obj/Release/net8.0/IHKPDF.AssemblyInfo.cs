@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IHKPDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e099a14f247552082e4c9484c7af7269aa5f92cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("IHKPDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IHKPDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
