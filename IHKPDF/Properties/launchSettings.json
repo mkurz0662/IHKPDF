@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IHKPDF": {
+      "commandName": "Project",
+      "commandLineArgs": "cosmosid=1 server=http://www.daten-partner.de verzeichnis=E:\\Compart\\test\\IHK\\in\\1"
+    }
+  }
+}
